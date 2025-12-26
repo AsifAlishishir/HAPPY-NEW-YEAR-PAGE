@@ -223,6 +223,9 @@ main {
 
 .holiday-content span {
   color: rgba(255, 0, 0, 1);
+  font-size: 72px;
+  font-weight: 900;
+
 }
 
 .holiday-content p{
