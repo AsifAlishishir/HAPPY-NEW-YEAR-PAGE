@@ -242,3 +242,39 @@ main {
 .below img{
     filter: drop-shadow(20px 20px 15px rgba(0, 0, 0, 0.5));
 }
+
+
+/* card section styles */
+.card{
+  margin-bottom: 120px;
+}
+
+.card h4{
+  font-size: 24px;
+  font-weight: 500;
+  color: rgba(255, 0, 0, 1);
+  margin-bottom: 16px;
+}
+
+.card h2{
+  font-size: 48px;
+  font-weight: 900;
+  color: rgba(7, 2, 17, 1);
+  margin-bottom: 22px;
+}
+
+.card p{
+  font-size: 20px;
+  color: rgba(7, 2, 17, 0.6);
+  margin-bottom: 50px;
+}
+
+.card-image-container{
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.card-image-container img{
+  display: block;
+}
