@@ -48,10 +48,11 @@ Clone the Repository:
 
 Bash
 
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone [https://github.com/AsifAlishishir/HAPPY-NEW-YEAR-PAGE.git](https://github.com/your-username/your-repo-name.git)
 Open the site: Simply open index.html in your browser.
 
-🎨 Design Colors
+## 🎨 Design Colors
+
 Primary Red: #FF0000
 
 Midnight Navy: rgba(7, 2, 17, 1)
