@@ -329,3 +329,55 @@ main {
   font-weight: 500;
   margin-left: -3px;
 }
+
+
+footer{
+  background-color: rgba(7, 2, 17, 1);
+}
+
+.footer-content{
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: 120px 0px;
+  color: white;
+}
+
+.footer-content p, span{
+  font-size: 24px;
+  font-weight: 500;
+
+}
+.footer-content hr{
+  border: none;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.address{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.flex{
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.icons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 30px;
+margin: 50px 0;
+}
+
+.copyright{
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
